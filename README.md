@@ -12,6 +12,7 @@ veri setini labelmg ile olusturabilirsiniz. Bunun için internette fazlaca video
 
 ## 3 Training dataset
  
-all that done above you can start training your dataset. you can obtain yolov3_training_last.weights and yolov3_training_1000.weights(every after 1000 rounds and so 2000....)
+all that done above you can start training your dataset via colab .Firstly you must upload Train_YoloV3_.ipynb  file to the [Google Colab](https://colab.research.google.com/) and start training . After starting training operation  you can obtain yolov3_training_last.weights and yolov3_training_1000.weights(every after 1000 rounds and so 2000....)
+
 now dataset weights easy and you can run the yolo_object_detection.py to run test proccesses.
 
