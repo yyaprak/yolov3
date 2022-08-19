@@ -8,7 +8,7 @@ Dateset creating is very easy . you can collect data from google searching via  
 veri setini labelmg ile olusturabilirsiniz. Bunun için internette fazlaca video var. Veri seti  eğitildikten sonra
  ## 2 Upload dataset
  	
- after creaition images.zip you can upload to the [Google Drive](drive.google.com) but there is some restrictions for free usage!!!
+ after creaition images.zip you can upload to the [Google Drive](https://drive.google.com) but there is some restrictions for free usage!!!
 
 ## 3 Training dataset
  
