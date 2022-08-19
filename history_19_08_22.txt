@@ -1,0 +1,1000 @@
+ 1197  sudo apt remove openjfx
+ 1198  ganttproject
+ 1199  idf.py set-target esp32
+ 1200  idf.py flash
+ 1201  ./export.sh
+ 1202  sudo nano ~/.bashrc
+ 1203  nano ~/.bashrc
+ 1204  ./add_path.sh
+ 1205  chmod a+x add_path.sh
+ 1206  ./add_path.sh
+ 1207  make
+ 1208  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1209  make
+ 1210  idf.py build
+ 1211  make
+ 1212  history >28_07_2022.txt
+ 1213  gedit 28_07_2022.txt
+ 1214  make
+ 1215  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1216  make
+ 1217  make build
+ 1218  make flash
+ 1219  make menuconfig
+ 1220  make all
+ 1221  echo $PATH
+ 1222  sudo nano ~/.bashrc
+ 1223  nano ~/.bashrc
+ 1224  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1225  print $IDF_PATH
+ 1226  echo $IDF_PATH
+ 1227  sudo nano ~/.bashrc
+ 1228  nano ~/.bashrc
+ 1229  idf.py build
+ 1230  make
+ 1231  make menuconfig
+ 1232  make
+ 1233  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1234  make
+ 1235  /home/iyilmaz/Documents/esp/esp441/esp-idf-v4.1.3/install.sh
+ 1236  make
+ 1237  cd /home/iyilmaz/Documents/esp/esp441/esp-idf-v4.1.3/install.sh
+ 1238  cd /home/iyilmaz/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1239  ./install.sh
+ 1240  ./export.sh
+ 1241  . ./export.sh
+ 1242  pip install cryptography
+ 1243  pip install cffi
+ 1244  pip install pycparser
+ 1245  pip install cffi
+ 1246  pip install cryptography
+ 1247  . ./export.sh
+ 1248  pip install pyparsing
+ 1249  pip3 install pyparsing
+ 1250  . ./export.sh
+ 1251  pip install click>=5.0
+ 1252  pip install click=5.0
+ 1253  pip install click==5.0
+ 1254  pip install click==8.0
+ 1255  pip install cryptography==2.1.4
+ 1256  pip install pyparsing=2.0.3
+ 1257  pip install pyparsing==2.0.3
+ 1258  . ./export.sh
+ 1259  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1260  make
+ 1261  idf.py build
+ 1262  idf.py set-target esp32
+ 1263  idf.py build
+ 1264  cd ..
+ 1265  git clone https://github.com/loboris/ESP32-PPPOS-EXAMPLE
+ 1266  ./gattproject
+ 1267  ./ganttproject
+ 1268  ganttproject
+ 1269  spyder
+ 1270  sudo ganttproject
+ 1271  ganttproject
+ 1272  sudo nautilus /usr/bin/
+ 1273  whereis ganttproject
+ 1274  ./ganttproject
+ 1275  java --version
+ 1276  sudo apt-get install openjdk-17-jdk
+ 1277  ganttproject
+ 1278  sudo apt-get install openjdk-17-jre
+ 1279  ls /etc/init.d/
+ 1280  ~/.profile
+ 1281  nano ~/.profile
+ 1282  nano ~/bashrc
+ 1283  nano ~/.bashrc
+ 1284  echo $PATH
+ 1285  ls /etc/envirement
+ 1286  ls /etc/environment
+ 1287  sudo nano  /etc/environment
+ 1288  sudo gedit  /etc/environment
+ 1289  sudo gedit  /etc/profile
+ 1290  whereis $PATH
+ 1291  ls /usr/local/bin
+ 1292  whereis PATH
+ 1293  ls /etc/profile.d
+ 1294  echo ~/.profile
+ 1295  gedit ~/.profile
+ 1296  echo $PATH
+ 1297  $PATH=/home/iyilmaz/.espressif/tools/xtensa-esp-elf-gdb/11.2_20220715/xtensa-esp-elf-gdb/bin:/home/iyilmaz/.espressif/tools/riscv32-esp-elf-gdb/11.2_20220715/riscv32-esp-elf-gdb/bin:/home/iyilmaz/.espressif/tools/xtensa-esp32-elf/esp-2022r1-RC1-11.2.0/xtensa-esp32-elf/bin:/home/iyilmaz/.espressif/tools/xtensa-esp32s2-elf/esp-2022r1-RC1-11.2.0/xtensa-esp32s2-elf/bin:/home/iyilmaz/.espressif/tools/xtensa-esp32s3-elf/esp-2022r1-RC1-11.2.0/xtensa-esp32s3-elf/bin:/home/iyilmaz/.espressif/tools/riscv32-esp-elf/esp-2022r1-RC1-11.2.0/riscv32-esp-elf/bin:/home/iyilmaz/.espressif/tools/esp32ulp-elf/2.28.51-esp-20191205/esp32ulp-elf-binutils/bin:/home/iyilmaz/.espressif/tools/esp32s2ulp-elf/2.28.51-esp-20191205/esp32s2ulp-elf-binutils/bin:/home/iyilmaz/.espressif/tools/openocd-esp32/v0.11.0-esp32-20220706/openocd-esp32/bin:/home/iyilmaz/.espressif/python_env/idf5.0_py3.7_env/bin:/home/iyilmaz/anaconda3/bin:/home/iyilmaz/anaconda3/condabin:/home/iyilmaz/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+ 1298  echo $PATH
+ 1299  export PATH=/home/iyilmaz/.espressif/tools/xtensa-esp-elf-gdb/11.2_20220715/xtensa-esp-elf-gdb/bin:/home/iyilmaz/.espressif/tools/riscv32-esp-elf-gdb/11.2_20220715/riscv32-esp-elf-gdb/bin:/home/iyilmaz/.espressif/tools/xtensa-esp32-elf/esp-2022r1-RC1-11.2.0/xtensa-esp32-elf/bin:/home/iyilmaz/.espressif/tools/xtensa-esp32s2-elf/esp-2022r1-RC1-11.2.0/xtensa-esp32s2-elf/bin:/home/iyilmaz/.espressif/tools/xtensa-esp32s3-elf/esp-2022r1-RC1-11.2.0/xtensa-esp32s3-elf/bin:/home/iyilmaz/.espressif/tools/riscv32-esp-elf/esp-2022r1-RC1-11.2.0/riscv32-esp-elf/bin:/home/iyilmaz/.espressif/tools/esp32ulp-elf/2.28.51-esp-20191205/esp32ulp-elf-binutils/bin:/home/iyilmaz/.espressif/tools/esp32s2ulp-elf/2.28.51-esp-20191205/esp32s2ulp-elf-binutils/bin:/home/iyilmaz/.espressif/tools/openocd-esp32/v0.11.0-esp32-20220706/openocd-esp32/bin:/home/iyilmaz/.espressif/python_env/idf5.0_py3.7_env/bin:/home/iyilmaz/anaconda3/bin:/home/iyilmaz/anaconda3/condabin:/home/iyilmaz/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+ 1300  clear
+ 1301  echo $PATH
+ 1302  idf.py build
+ 1303  ls
+ 1304  ls -la
+ 1305  ls -la ~.
+ 1306  ls -la ~/
+ 1307  gedit ~/.profile
+ 1308  gedit ~/.bashrc
+ 1309  echo IDF_ADD_PATHS_EXTRAS
+ 1310  echo $IDF_ADD_PATHS_EXTRAS
+ 1311  sudo echo $PATH
+ 1312  echo $IDF_PATH
+ 1313  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1314  echo $IDF_PATH
+ 1315  echo $ESP-IDF
+ 1316  echo $ESP_IDF
+ 1317  echo $PATH
+ 1318  ./install.sh
+ 1319  ./export.sh
+ 1320  sudo ./export.sh
+ 1321  chmod a+c export.sh
+ 1322  chmod a+x export.sh
+ 1323  ./export.sh
+ 1324  . ./export.sh
+ 1325  ./install.sh
+ 1326  echo $PATH
+ 1327  export PATH=/home/iyilmaz/anaconda3/bin:/home/iyilmaz/anaconda3/condabin:/home/iyilmaz/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+ 1328  ls
+ 1329  ./install.sh
+ 1330  . ./export.sh
+ 1331  echo $IDF_PATH
+ 1332  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3
+ 1333  . ./export.sh
+ 1334  echo ~/.bashrc
+ 1335  nano  ~/.bashrc
+ 1336  nano  ~/.profile
+ 1337  echo $PATH
+ 1338  ./add_paths.sh
+ 1339  . ./add_paths.sh
+ 1340  ./add_path.sh
+ 1341  echo $PATH
+ 1342  . ./add_paths.sh
+ 1343  . ./add_path.sh
+ 1344  echo $PATH
+ 1345  ./export.sh
+ 1346  idf.py build
+ 1347  idf_tools.py install-python-env
+ 1348  pip install --upgrade pip
+ 1349  idf.py build
+ 1350  echo $PATH
+ 1351  sudo nano ~/.bashrc
+ 1352  nano ~/.bashrc
+ 1353  export IDF_PATH=~/Documents/esp/esp/esp-idf-v4.1.3
+ 1354  make
+ 1355  idf.py build
+ 1356  cd $IDF_PATH
+ 1357  export IDF_PATH=~/Documents/esp/espesp-idf-v4.1.3/
+ 1358  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1359  idf.py build
+ 1360  ls ~/Documents/esp/esp441/esp-idf-v4.1.3/
+ 1361  make
+ 1362  idf.py
+ 1363  nano ~/.bashrc
+ 1364  export IDF_PATH=~/Documents/esp/esp441/esp-idf-v4.1.3
+ 1365  idf.py
+ 1366  nano ~/.bash.rc
+ 1367  nano ~/.bashrc
+ 1368  idf.py
+ 1369  idf.py build
+ 1370  make
+ 1371  make all
+ 1372  make
+ 1373  make flash
+ 1374  ./add_path.sh
+ 1375  echo $PATH
+ 1376  . ./add_path.sh
+ 1377  . /add_path.sh
+ 1378  . ./add_path.sh
+ 1379  echo $PATH
+ 1380  . ./add_path.sh
+ 1381  echo $PATH
+ 1382  idf.py
+ 1383  cd ~/esp/esp-idf
+ 1384  cd ~/Documents/esp/esp-idf
+ 1385  export IDF_GITHUB_ASSETS="dl.espressif.com/github_assets"
+ 1386  idf.py
+ 1387  ls
+ 1388  cd ~
+ 1389  ls
+ 1390  ls *.txt
+ 1391  gedit history_28_09_2021.txt
+ 1392  ls *.txt
+ 1393  ls*2022 *.txt
+ 1394  ls *2022 *.txt
+ 1395  ls bash*
+ 1396  ls -la bash*
+ 1397  export IDF_PATH=~/Documents/esp/esp-idf
+ 1398  nano ~/.profile
+ 1399  nano ~/.bashrc
+ 1400  make all
+ 1401  make flash
+ 1402  make all
+ 1403  make flash
+ 1404  make all
+ 1405  make flash
+ 1406  make all
+ 1407  make flash
+ 1408  make all
+ 1409  make
+ 1410  make all
+ 1411  make flash
+ 1412  make all
+ 1413  idf.py
+ 1414  idf.py build
+ 1415  make build
+ 1416  make flush -b /dev/ttyUSB0
+ 1417  make flush
+ 1418  make build
+ 1419  make flush
+ 1420  make menuconfig
+ 1421  make build
+ 1422  make all
+ 1423  make flush
+ 1424  make flash
+ 1425  make all
+ 1426  make flash
+ 1427  make all
+ 1428  make flash
+ 1429  make menuconfig
+ 1430  make all
+ 1431  make flash
+ 1432  make all
+ 1433  make flash
+ 1434  make all
+ 1435  make flash
+ 1436  make all
+ 1437  make flash
+ 1438  make flash 
+ 1439  ls /dev
+ 1440  ls /dev/usb
+ 1441  ls /dev/usb/sb
+ 1442  ls /dev/
+ 1443  make flash 
+ 1444  ls /dev
+ 1445  make flash
+ 1446  ls /dev
+ 1447  ls /dev/usb
+ 1448  ls /dev/
+ 1449  make flash
+ 1450  make all
+ 1451  make flash
+ 1452  make all
+ 1453  make flash
+ 1454  ls /dev
+ 1455  make flash
+ 1456  make all
+ 1457  echo $PATH
+ 1458  sudo nano ~/.bashrc
+ 1459  nano ~/.bashrc
+ 1460  nano ~/.profile
+ 1461  ls /dev
+ 1462  sudo nano /etc/udev/rules.d/10-local.rules
+ 1463  lsusb
+ 1464  sudo lsusb -v -s 003:005
+ 1465  lsusb -v -s 003:005
+ 1466  lsusb
+ 1467  lsusb -v -s 003:009
+ 1468  lsusb
+ 1469  ls /dev
+ 1470  ls /dev/serial
+ 1471  ls /dev
+ 1472  ls  /etc/udev/rules.d/
+ 1473  sudo mv /etc/udev/rules.d/10-local.rules tc/udev/rules.d/10-myusbports.rules
+ 1474  sudo cp /etc/udev/rules.d/10-local.rules tc/udev/rules.d/10-myusbports.rules
+ 1475  sudo mv /etc/udev/rules.d/10-local.rules /etc/udev/rules.d/10-myusbports.rules
+ 1476  ls  /etc/udev/rules.d/
+ 1477  service udev restart
+ 1478  ls /dev
+ 1479  udevadm control --reload-rules
+ 1480  sudo udevadm control --reload-rules
+ 1481  ls /dev
+ 1482  sudo nano /etc/udev/rules.d/10-myusbports.rules
+ 1483  ls /dev
+ 1484  ls /dev/usb
+ 1485  ls /dev
+ 1486  sudo nano /etc/udev/rules.d/10-myusbports.rules
+ 1487  reboot
+ 1488  whereis arduino
+ 1489  sudo nautilus
+ 1490  make flash
+ 1491  ls /dev
+ 1492  make flash
+ 1493  ls /dev
+ 1494  make flash
+ 1495  ls /dev
+ 1496  ls /dev/my_esp
+ 1497  ls /dev
+ 1498  sudo nano /etc/udev/rules.d/10-myusbports.rules
+ 1499  udevadm control --reload-rules
+ 1500  sudo udevadm control --reload-rules
+ 1501  service udev restart
+ 1502  ls /dev
+ 1503  make flash
+ 1504  sudo nano /etc/udev/rules.d/10-myusbports.rules
+ 1505  udevadm control --reload-rules
+ 1506  sudo udevadm control --reload-rules
+ 1507  service udev restart
+ 1508  ls /dev
+ 1509  make flash
+ 1510  ls /dev
+ 1511  ls /dev -la
+ 1512  make flash
+ 1513  make menuconfig
+ 1514  make flash
+ 1515  make build
+ 1516  make all
+ 1517  make flash
+ 1518  ls /dev
+ 1519  make flash
+ 1520  make all
+ 1521  make flash
+ 1522  make all
+ 1523  make flash
+ 1524  make all
+ 1525  make flash
+ 1526  make all
+ 1527  make flash
+ 1528  make all
+ 1529  make flash
+ 1530  make all
+ 1531  make flash
+ 1532  ls /dev
+ 1533  sudo nano /etc/vsftpd.conf
+ 1534  sudo apt install vdftpd
+ 1535  sudo apt install vsftpd
+ 1536  sudo nano /etc/vsftpd.conf
+ 1537  sudo ufw allow from any to any port 20,21,10000:10100 proto tcp
+ 1538  sudo systemctl restart vsftpd
+ 1539  sudo useradd -m ftpuser
+ 1540  sudo passwd ftpuser
+ 1541  sudo bash -c "echo FTP TESTING > /home/ftpuser/FTP-TEST"
+ 1542  gantproject
+ 1543  ganttproject
+ 1544  sudo nautilus
+ 1545  sudo apt-get -y install planner
+ 1546  gcc
+ 1547  ls
+ 1548  chmod a+x GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1549  ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1550  sudo apt-get install gstreamer1.0-tools gstreamer1.0-plugins-ugly gstreamer1.0-plugins-bad
+ 1551  ls 
+ 1552  ./GetThermal-Linux-x64.AppImage
+ 1553  chmod a+x GetThermal-Linux-x64.AppImage
+ 1554  ./GetThermal-Linux-x64.AppImage
+ 1555  sudo apt-get update && sudo apt-get install libqt5network5
+ 1556  ./GetThermal-Linux-x64.AppImage
+ 1557  sudo apt-get update && sudo apt-get install libqt5network5
+ 1558  sudo apt autoremove
+ 1559  sudo apt-get update && sudo apt-get install libqt5network5
+ 1560  ./GetThermal-Linux-x64.AppImage
+ 1561  sudo apt-get update && sudo apt-get install libqt5network5
+ 1562  ./GetThermal-Linux-x64.AppImage
+ 1563  mkdir build
+ 1564  cd build
+ 1565  cmake ..
+ 1566  libusb
+ 1567  sudo apt install libusb
+ 1568  cmake ..
+ 1569  sudo apt-get install libusb-1.0-0-dev
+ 1570  cmake ..
+ 1571  make && sudo make install
+ 1572  ls
+ 1573  ./example
+ 1574  sudo ./example
+ 1575  sudo ./example /dev/ttyUSB0
+ 1576  ls
+ 1577  sudo ./example /dev/ttyUSB0
+ 1578  libusb
+ 1579  libusb1.0
+ 1580  libusb
+ 1581  sudo ./example /dev/ttyUSB0
+ 1582  sudo ./example --help
+ 1583  sudo ./example --?
+ 1584  sudo ./example -p
+ 1585  sudo ./example -p /dev/ttyUSB0
+ 1586  pip install pythoon
+ 1587  git clone https://github.com/libuvc/libuvc
+ 1588  get clone https://github.com/libuvc/libuvc
+ 1589  git clone https://github.com/libuvc/libuvc
+ 1590  cd ~/Desktop
+ 1591  ls
+ 1592  cd thermal
+ 1593  ls
+ 1594  ./GetThermal-Linux-x64.AppImage
+ 1595  python Examples\test_connection.py
+ 1596  python Examples/test_connection.py
+ 1597  pip install pythonnet
+ 1598  python -m pip install pythonnet
+ 1599  python3 -m pip install pythonnet
+ 1600  sudo apt-get install clang
+ 1601  sudo apt-get install libglib2.0-dev
+ 1602  sudo apt install git
+ 1603  sudo apt install nuget
+ 1604  mono /usr/lib/nuget/nuget.exe config -set http_proxy=http://my.proxy.address:port
+ 1605  mono /usr/lib/nuget/nuget config -set http_proxy=http://my.proxy.address:port
+ 1606  whereis nuget.exe
+ 1607  mono /usr/lib/nuget config -set http_proxy=http://my.proxy.address:port
+ 1608  mono /usr/bin/nuget config -set http_proxy=http://my.proxy.address:port
+ 1609  mono
+ 1610  nano test.cs
+ 1611  mcs hello.cs
+ 1612  ls
+ 1613  mcs tes.cs
+ 1614  mcs test.cs
+ 1615  nano test.cs
+ 1616  mcs test.cs
+ 1617  nano test.cs
+ 1618  mcs test.cs
+ 1619  LS
+ 1620  mcs test.cs
+ 1621  LS
+ 1622  ls
+ 1623  ./test.exe
+ 1624  /usr/bin/python3 -m pip install -U pycparser --user
+ 1625  /usr/bin/python3 -m pip install -U git+https://github.com/pythonnet/pythonnet --user --egg 
+ 1626  pip install pycparser
+ 1627  pip install pythonnet
+ 1628  sudo apt-get install clang
+ 1629  sudo apt-get install libglib2.0-dev
+ 1630  sudo apt-get install python3-dev
+ 1631  pip install pycparser
+ 1632  sudo apt install mono-complete 
+ 1633  python -c 'import clr'
+ 1634  pip install clr
+ 1635  python -c 'import clr'
+ 1636  pip show pythonnet
+ 1637  pip install pythonnet
+ 1638  clear
+ 1639  pip install pythonnet
+ 1640  sudo apt update
+ 1641  sudo apt-get install clang
+ 1642  sudo apt-get install libglib2.0-dev
+ 1643  sudo apt install nuget
+ 1644  git config --global http.proxy http://my.proxy.address:port
+ 1645  mono /usr/lib/nuget/nuget.exe config -set http_proxy=http://my.proxy.address:port
+ 1646  mono /usr/lib/nuget.exe config -set http_proxy=http://my.proxy.address:port
+ 1647  whereis nuget.exe
+ 1648  nuget.exe
+ 1649  ls /usr/bin
+ 1650  ls /usr/bin/nug*
+ 1651  nuget
+ 1652  mono /usr/lib/nuget config -set http_proxy=http://my.proxy.address:port
+ 1653  mono /usr/bin/nuget
+ 1654  sudo mono /usr/lib/nuget config -set http_proxy=http://my.proxy.address:port
+ 1655  sudo su
+ 1656  pip install pythonnet numpy matplotlib
+ 1657  python
+ 1658  pip install clr
+ 1659  ls
+ 1660  ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1661  ./GetThermal-v0.1.3-x86_64-Linux.AppImage /dev/ttyUSB0
+ 1662  sudo ./GetThermal-v0.1.3-x86_64-Linux.AppImage /dev/ttyUSB0
+ 1663  sudo ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1664  ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1665  ls /dev
+ 1666  ./GetThermal-v0.1.3-x86_64-Linux.AppImage -p /dev/ttyUSB0
+ 1667  cd ~/Desktop
+ 1668  cd thermal
+ 1669  ls
+ 1670  chmod a+x GetThermal-Linux-x64.AppImage
+ 1671  ./GetThermal-Linux-x64.AppImage
+ 1672  git submodule init
+ 1673  cd ..
+ 1674  git submodule init
+ 1675  ls
+ 1676  ls 
+ 1677  ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1678  sudo ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1679  python3 test.py
+ 1680  ls /dev
+ 1681  nano  test.py
+ 1682  sudo python3 test.py
+ 1683  make
+ 1684  sudo add-apt-repository ppa:terry.guo/gcc-arm-embedded
+ 1685  sudo apt-get install gcc-arm-none-eabi
+ 1686  make
+ 1687  make USART_DEBUG=1
+ 1688  ls
+ 1689  make GDB_SEMIHOSTING=1
+ 1690  cd ..
+ 1691  git clone https://github.com/groupgets/purethermal1-firmware
+ 1692  cd  purethermal1-firmware
+ 1693  make
+ 1694  make flash
+ 1695  ls /dev
+ 1696  ls /dev/
+ 1697  sudo apt-get install git make cmake libusb-1.0-0-dev
+ 1698  sudo apt-get install gcc build-essential
+ 1699  mkdir stm32
+ 1700  git clone https://github.com/stlink-org/stlink
+ 1701  git config --global --unset http.proxy
+ 1702  git clone https://github.com/stlink-org/stlink
+ 1703  cd stlink
+ 1704  cmake .
+ 1705  make
+ 1706  cd bin
+ 1707  sudo cp st-* /usr/local/bin
+ 1708  cd ../lib
+ 1709  sudo cp *.so* /lib32
+ 1710  sudo cp stlink/config/udev/rules.d/49-stlinkv* /etc/udev/rules.d/
+ 1711  ls
+ 1712  cd ..
+ 1713  cd..
+ 1714  cd ..
+ 1715  sudo cp stlink/config/udev/rules.d/49-stlinkv* /etc/udev/rules.d/
+ 1716  lsusb
+ 1717  ls /dev
+ 1718  cd build
+ 1719  ls
+ 1720  make
+ 1721  ls
+ 1722  qmake
+ 1723  ls
+ 1724  cd libuvc
+ 1725  ls
+ 1726  cd ..
+ 1727  git clone https://github.com/groupgets/GetThermal.git
+ 1728  git clone https://github.com/groupgets/GetThermal
+ 1729  git clone https://github.com/groupgets/GetThermal/
+ 1730  git config --global http.proxy http://yyaprak:320457@proxy.server.com:8080
+ 1731  git clone https://github.com/groupgets/GetThermal/
+ 1732  git clone https://github.com/groupgets/GetThermal
+ 1733  git config --global http.proxy http://yyaprak:320457ab@proxy.server.com:8080
+ 1734  git clone https://github.com/groupgets/GetThermal
+ 1735  git clone github.com/groupgets/GetThermal
+ 1736  git clone http://github.com/groupgets/GetThermal
+ 1737  git clone http://github.com/groupgets/GetThermal.git
+ 1738  ls
+ 1739  cd GetThermal
+ 1740  ls
+ 1741  git submodule init
+ 1742  git submodule update
+ 1743  pushd libuvc
+ 1744  mkdir build
+ 1745  cd build
+ 1746  cmake ..
+ 1747  make
+ 1748  popd
+ 1749  qmake
+ 1750  sudo apt-get install python-opencv python-numpy
+ 1751  sudo apt-get install python3-opencv python-numpy
+ 1752  cd ..
+ 1753  cd pylepton-master
+ 1754  ls
+ 1755  sudo python setup.py install
+ 1756  pylepton
+ 1757  sudo apt-get install python-picamera
+ 1758  sudo apt-get install python3-picamera
+ 1759  picamera
+ 1760  pi picamera
+ 1761  nano test.py
+ 1762  python3 test.py
+ 1763  pip install numpy
+ 1764  python3 test.py
+ 1765  pip install opencv-python
+ 1766  python3 test.py
+ 1767  sudo python3 test.py
+ 1768  nano test.py
+ 1769  sudo python3 test.py
+ 1770  nano test.py
+ 1771  sudo python3 test.py
+ 1772  sudo apt-get install qt5-default qtmultimedia5-dev qtdeclarative5-dev     qml-module-qtquick-controls2 qml-module-qtmultimedia     qml-module-qtquick-layouts qml-module-qtquick-window2     qml-module-qtquick-templates2 qml-module-qtgraphicaleffects \
+ 1773  sudo apt-get install qt5-default qtmultimedia5-dev qtdeclarative5-dev qml-module-qtquick-controls2 qml-module-qtmultimedia qml-module-qtquick-layouts qml-module-qtquick-window2  qml-module-qtquick-templates2 qml-module-qtgraphicaleffects libusb-1.0-0-dev cmake git
+ 1774  cd ~/Desktop/thermal
+ 1775  git clone https://github.com/groupgets/GetThermal.git
+ 1776  ls
+ 1777  cd git submodule update --init
+ 1778  submodule update --init
+ 1779  ls
+ 1780  cd libuvc-master
+ 1781  ls
+ 1782  cd build
+ 1783  ls
+ 1784  cd ../..
+ 1785  cd libuvc-master
+ 1786  ls
+ 1787  cd build
+ 1788  cd ..
+ 1789  git clone https://github.com/groupgets/GetThermal
+ 1790  git clone github.com/groupgets/GetThermal
+ 1791  git clone https://github.com/groupgets/GetThermal
+ 1792  git clone https://github.com/groupgets/GetThermal.git
+ 1793  git clone https://github.com/groupgets/GetThermal
+ 1794  git
+ 1795  git clone https://github.com/groupgets/GetThermal
+ 1796  git clone https://github.com/groupgets/GetThermal.git
+ 1797  cd GetThermal
+ 1798  git clone https://github.com/groupgets/GetThermal.git
+ 1799  ls
+ 1800  ls
+ 1801  ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1802  sudo ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1803  ls /dev
+ 1804  ls
+ 1805  ./SetupSTM32CubeMX-6.6.1
+ 1806  sudo dfu-util --list
+ 1807  ls /dev
+ 1808  sudo dfu-util --list
+ 1809  ls /dev
+ 1810  make
+ 1811  make flash
+ 1812  st-flash
+ 1813  sudo apt-get install dfu-util
+ 1814  dfu-util
+ 1815  dfu-util -a 0 -D main.bin -s 0x08000000
+ 1816  dfu-util --list
+ 1817  sudo dfu-util
+ 1818  sudo dfu-util --list
+ 1819  ls /dev
+ 1820  sudo dfu-util --list
+ 1821  lsusb
+ 1822  make flash
+ 1823  brew info openocd
+ 1824  sudo apt install brew
+ 1825  make USART_DEBUG=1
+ 1826  make GDB_SEMIHOSTING=1
+ 1827  make
+ 1828  make flash
+ 1829  make clean
+ 1830  make debug
+ 1831  make flash
+ 1832  make debug
+ 1833  telnet open
+ 1834  telnet open localhost:4444
+ 1835  telnet open 4444
+ 1836  telnet open -p 4444
+ 1837  ls /dev
+ 1838  sudo telnet localhost 4444
+ 1839  telnet open -p 4444tcl
+ 1840  tcl
+ 1841  sudo apt install tcl
+ 1842  tcl
+ 1843  whereis tcl
+ 1844  tcl
+ 1845  telnet localhost 6666
+ 1846  telnet localhost 4444
+ 1847  ls
+ 1848  ./STM32CubeMX
+ 1849  ls /dev
+ 1850  clear
+ 1851  ls /dev
+ 1852  sudo dfu-util --list
+ 1853  ls /dev
+ 1854  ls
+ 1855  ./GetThermal-Linux-x64.AppImage
+ 1856  sudo ./GetThermal-Linux-x64.AppImage
+ 1857  ls 
+ 1858  ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1859  sudo ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1860  git clone https://github.com/groupgets/purethermal1-uvc-capture.git
+ 1861  python3 opencv-capture
+ 1862  python3 opencv-capture.py
+ 1863  pip install python-opencv
+ 1864  pip install python3-opencv
+ 1865  pip install opencv-python
+ 1866  python3 opencv-capture.py
+ 1867  spyder
+ 1868  ls /dev
+ 1869  ls
+ 1870  ls /dev
+ 1871  ls /dev
+ 1872  make 
+ 1873  make flash
+ 1874  ls /dev
+ 1875  make flash
+ 1876  ls /dev
+ 1877  ls
+ 1878  ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1879  sudo ./GetThermal-v0.1.3-x86_64-Linux.AppImage
+ 1880  ls /dev
+ 1881  apt update && apt -y install ca-certificates wget net-tools gnupg
+ 1882  sudo apt update && apt -y install ca-certificates wget net-tools gnupg
+ 1883  wget -qO - https://as-repository.openvpn.net/as-repo-public.gpg | apt-key add -
+ 1884  sudo wget -qO - https://as-repository.openvpn.net/as-repo-public.gpg | apt-key add -
+ 1885  sudo su
+ 1886  echo "deb http://as-repository.openvpn.net/as/debian jammy
+ 1887  echo "deb http://as-repository.openvpn.net/as/debian jammy main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1888  sudo echo "deb http://as-repository.openvpn.net/as/debian jammy main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1889  sduo su
+ 1890  sudo su
+ 1891  git clone https://github.com/do-community/doggy-directory
+ 1892  cd doggy-directory
+ 1893  npm install
+ 1894  npm start
+ 1895  qemu
+ 1896  sudo apt install qemu
+ 1897  qemu
+ 1898  QEMU
+ 1899  qemu-system-x86_64 --version
+ 1900  npm
+ 1901  df -h
+ 1902  python3 -m pip install roboflowoak depthai opencv-python
+ 1903  /home/iyilmaz/Documents/esp/esp-idf/install.sh
+ 1904  pip install cryptography>=35.0
+ 1905  /home/iyilmaz/Documents/esp/esp-idf/install.sh
+ 1906  pip install cryptography>=35.0
+ 1907  /home/iyilmaz/Documents/esp/esp-idf/install.sh
+ 1908  . /home/iyilmaz/Documents/esp/esp-idf/export.sh
+ 1909  conda install numba & conda install cudatoolkit
+ 1910  nano esp_idf_path_ekleme.sh
+ 1911  ./esp_idf_path_ekleme.sh
+ 1912  chmod a+x esp_idf_path_ekleme.sh
+ 1913  ./esp_idf_path_ekleme.sh
+ 1914  nano ~/.bashrc
+ 1915  pip install google_images_download
+ 1916  pip install bing-image-downloader
+ 1917  pip install google_images_download
+ 1918  pip3 install google_images_download
+ 1919  pip install --upgrade pip
+ 1920  pip3 install google_images_download
+ 1921  pip install google-images-download
+ 1922  whereis python3
+ 1923  whereis pip
+ 1924  /home/iyilmaz/anaconda3/bin/pip3.7
+ 1925  /home/iyilmaz/anaconda3/bin/pip3.7 install google_images_download
+ 1926  /home/iyilmaz/anaconda3/bin/pip install google_images_download
+ 1927  python -m pip install --upgrade pip
+ 1928  pip install google-images-download
+ 1929  /home/iyilmaz/anaconda3/bin/pip install google_images_download
+ 1930  /home/iyilmaz/anaconda3/bin/python  install --upgrade-pip
+ 1931  /home/iyilmaz/anaconda3/bin/python -m pip  install --upgrade-pip
+ 1932  /home/iyilmaz/anaconda3/bin/python -m pip  install --upgrade pip
+ 1933  /home/iyilmaz/anaconda3/bin/pip install google_images_download
+ 1934  labelimg
+ 1935  labellimg
+ 1936  labelImg
+ 1937  git clone https://github.com/AlexeyAB/darknet
+ 1938  make
+ 1939  spyder
+ 1940  git clone https://github.com/ultralytics/yolov5 
+ 1941  cd yolo5
+ 1942  cd yolov5
+ 1943  pip install -r requirements.txt
+ 1944  spyder
+ 1945  pip3 install -r requirements.txt
+ 1946  pip uninstall PyYAML
+ 1947  pip install asteroid --ignore-installed PyYAML
+ 1948  spyder
+ 1949  pip install utils
+ 1950  ls
+ 1951  %pip install -qr requirements.txt  # install
+ 1952  pip install -qr requirements.txt  # install
+ 1953  pip install -qr requirements.txt  --ignore-installed PyYAML
+ 1954  pip3 install -qr requirements.txt  --ignore-installed PyYAML
+ 1955  xdg-mime default arya.desktop x-scheme-handler/pixeon
+ 1956  sudo nautilus
+ 1957  labelimg
+ 1958  labelImg
+ 1959  jupyter lab
+ 1960  nvidia-smi
+ 1961  uname -a
+ 1962  nvidia-settings --help
+ 1963  sudo prime-select query
+ 1964  cat /proc/driver/nvidia/version
+ 1965  sudo lspci -v | grep VGA
+ 1966  lspci | grep -i nvidia
+ 1967  dpkg -l | grep -i nvidia
+ 1968  lsmod | grep nvidia
+ 1969  sudo apt install nvidia-driver-470
+ 1970  sudo apt install nvidia-driver-430
+ 1971  sudo apt --fix-broken install
+ 1972  nvidia-smi
+ 1973  sudo apt install nvidia-driver-515
+ 1974  sudo apt --fix-broken install
+ 1975  sudo apt update
+ 1976  spyder
+ 1977  spyder
+ 1978  ls
+ 1979  mv -- "*" "image$i.jpeg"
+ 1980  mv -- "$*" "image$i.jpeg"
+ 1981  mv -- "$file" "images_$i.jpeg"
+ 1982  i=1
+ 1983  for file in *.jpg; ;
+ 1984  for file in *.jpg; ;
+ 1985  for file in *.jpg; do mv -- "$file" "image_$i.jpeg"; i=$((i+1)) ; done
+ 1986  ls
+ 1987  rm *.webp
+ 1988  ls
+ 1989  labelImage
+ 1990  labelImg
+ 1991  cd ../plantdiseases_test
+ 1992  cd ../plan_tdiseases_test
+ 1993  cd ../plant_diseases_test
+ 1994  for file in *.jpeg; do mv -- "$file" "image_$i.jpg"; i=$((i+1)) ; done
+ 1995  labelImg
+ 1996  for file in *.jpeg; do mv -- "$file" "image_$i.jpg"; i=$((i+1)) ; done
+ 1997  labelImg
+ 1998  history > history_18_08_2022.txt
+ 1999  gedit history_18_08_2022.txt
+ 2000  git --version
+ 2001  mkdir esp32-repo
+ 2002  cd esp32-repo
+ 2003  git init
+ 2004  ls
+ 2005  ls -la
+ 2006  cd ..
+ 2007  mkdir yolo-repo
+ 2008  cd yolo-repo
+ 2009  git init
+ 2010  ls
+ 2011  touch yolo_object_detection.py
+ 2012  gedit yolo_object_detection.py
+ 2013  git add test.py
+ 2014  ls
+ 2015  git add yolo_obejct_detection.py
+ 2016  git add yolo_object_detection.py
+ 2017  ls
+ 2018  git status
+ 2019  git commit -m "commitment"
+ 2020  git remore add origin "git@github.com:yyaprak/yolov3.git"
+ 2021  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2022  git pull origin master
+ 2023  ls
+ 2024  git pull origin master
+ 2025  git status
+ 2026  ls
+ 2027  git pull origin master
+ 2028  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2029  git pull origin master
+ 2030  git remote show origin
+ 2031  ls
+ 2032  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2033  git pull origin master
+ 2034  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2035  git push origin
+ 2036  git push origin master
+ 2037  git push origin main -f 
+ 2038  git push origin master
+ 2039  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2040  git push origin master
+ 2041  git commit -m "yolov3"
+ 2042  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2043  git pull origin master
+ 2044  ls
+ 2045  git pull origin master
+ 2046  git pull origin main
+ 2047  ls
+ 2048  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2049  git pull origin master
+ 2050  ls
+ 2051  ls -la
+ 2052  ls
+ 2053  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2054  git pull origin master
+ 2055  ls
+ 2056  git pull origin master --allow-unrelated-histories
+ 2057  ls
+ 2058  git pull origin master
+ 2059  git push origin master
+ 2060  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2061  git commit -m "commitment"
+ 2062  git add yolov3_training_3000_tam.weights
+ 2063  git commit -m "commitment"
+ 2064  git push origin master
+ 2065  ls
+ 2066  gedit README.md
+ 2067  ls
+ 2068  git rm
+ 2069  git remove
+ 2070  ls
+ 2071  rm yolov3_training_3000_tam.weights
+ 2072  git commit -m "yolov3"
+ 2073  git commit -a
+ 2074  git commit -m "yolov3"
+ 2075  git add
+ 2076  git add .
+ 2077  ls
+ 2078  git commit -m "yolov3"
+ 2079  ls
+ 2080  git push origin master
+ 2081  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2082  git push origin master
+ 2083  git commit -m "yolov3"
+ 2084  ls
+ 2085  git add .
+ 2086  git commit -m "yolov3"
+ 2087  git push origin master
+ 2088  git commit -m "remove multiple files"
+ 2089  ls
+ 2090  git rm -- *.weights
+ 2091  git rm
+ 2092  git commit
+ 2093  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2094  git pull origin master
+ 2095  ls
+ 2096  git push origin master
+ 2097  ls
+ 2098  git commit -m "yolov3_training_3000_tam.weights"
+ 2099  git commit -m "yolov3_training_3000_tam.weigts"
+ 2100  git commit -m "yolov3_training_3000_tam.weights"
+ 2101  git push origin master
+ 2102  git add
+ 2103  git add .
+ 2104  ls
+ 2105  git commit -m "yolov3_training_3000_tam.weigts"
+ 2106  ls
+ 2107  git rm /home/iyilmaz/Desktop/nesne_takibi/downloaded_images/yolov3_sergio_exams/yolo_custom_detection/yolov3_training_3000_tam.weights
+ 2108  git rm yolov3_training_3000_tam.weights
+ 2109  git commit -m "yolov3_training_3000_tam.weigts"
+ 2110* 
+ 2111  git push origin master
+ 2112  ls
+ 2113  ls -la 
+ 2114  git push origin master
+ 2115  git rm --cached giant_file
+ 2116  git rm --cached yolov3_training_3000_tam.weights
+ 2117  git rm --cached .
+ 2118  git rm --cached . -r
+ 2119  ls
+ 2120  git push origin master
+ 2121  git rm yolov3_training_3000_tam.weights  --cached
+ 2122  git commit -m "yolov3_training_3000_tam.weigts"
+ 2123  git push origin master
+ 2124  git rm --dry-run
+ 2125  git rm --dry-run --cached
+ 2126  git rm * --dry-run
+ 2127  ls
+ 2128  git rm --cached -r .
+ 2129  git rm --cached -r
+ 2130  git rev-parse --git-dir
+ 2131  cd .git
+ 2132  ls -la
+ 2133  file index
+ 2134  file .git/index
+ 2135  file index
+ 2136  git rm -r --cached .
+ 2137  cd ..
+ 2138  git rm -r --cached .
+ 2139  git rm -r --cached
+ 2140  git rm -r --cached .
+ 2141  git rm -r --cached  .
+ 2142  git rm -r --cached .
+ 2143  git add .
+ 2144  ls
+ 2145  git rm -f yolov3_training_3000_tam.weights
+ 2146  git push origin master
+ 2147  git add .
+ 2148  git push origin master
+ 2149  git repack
+ 2150  git git config --global core.compression 0
+ 2151  git config --global core.compression 0
+ 2152  git repack
+ 2153  git rm -r --cached .
+ 2154  git commit -m
+ 2155  git commit -a
+ 2156  git add .
+ 2157  git commit -a
+ 2158  git push origin master
+ 2159  git push --no-thin
+ 2160  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2161  git pull origin master
+ 2162  git push origin master
+ 2163  ls
+ 2164  git reset --mixed .
+ 2165  git reset --mixed
+ 2166  git push origin master
+ 2167  rm .git/index
+ 2168  git status
+ 2169  git add .
+ 2170  git init
+ 2171  git remote add origin git@github.com:yyaprak/yolov3
+ 2172  git fetch
+ 2173  ls
+ 2174  git fsck
+ 2175  git fsck --full
+ 2176  git fsck --name-objects
+ 2177  git stash clear
+ 2178  git reflog expire --expire-unreachable=now --all
+ 2179  git gc --prune=now
+ 2180  git fsck --full --name-objects
+ 2181  git gc --aggressive
+ 2182  git pull
+ 2183  git fsck --full
+ 2184  git cat-file -t 3b5521f85d2bb1b388697e2918d02b7b144913be
+ 2185  git cat-file -t bf7a693f37fa40d402acf46823a45ee6080c808d
+ 2186  find .git/objects/ -size 0 -delete
+ 2187  git cat-file -t bf7a693f37fa40d402acf46823a45ee6080c808d
+ 2188  git fsck --full
+ 2189  git pull
+ 2190  rm .git -r
+ 2191  sudo rm .git -r
+ 2192  ls
+ 2193  git remote add origin git@github.com:yyaprak/yolov3
+ 2194  git remote add origin "git@github.com:yyaprak/yolov3.git"
+ 2195  ls
+ 2196  history > history_19_08_22.txt
