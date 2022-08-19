@@ -4,7 +4,7 @@ Data training and testing with yolov3
 
 ## 1 Creating dataset steps
 
-Dateset creating is very easy . you can collect data from google searching via  image downloader, imageassistant or etc. you can see youtube videos for that purposes then  you can use labelImg program for [labelling](https://(https://github.com/heartexlabs/labelImg)) images location for training aages and to zip this file of which contains images and text file of locations
+Dateset creating is very easy . you can collect data from google searching via  image downloader, imageassistant or etc. you can see youtube videos for that purposes then  you can use labelImg program for [labelImg](https://github.com/heartexlabs/labelImg) images location for training aages and to zip this file of which contains images and text file of locations
 veri setini labelmg ile olusturabilirsiniz. Bunun için internette fazlaca video var. Veri seti  eğitildikten sonra
  ## 2 Upload dataset
  	
