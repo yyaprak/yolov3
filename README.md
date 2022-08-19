@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # yolov3
 
 Data training and testing with yolov3
